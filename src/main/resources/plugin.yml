@@ -1,0 +1,12 @@
+name: HeadsAddon
+version: 1.0
+description: Enhances any HeadsPlugin
+author: Aljosha
+website: http://aljosha.eu
+main: de.aljoshavieth.headsaddon.Main
+api-version: 1.13
+commands:
+  headsaddon:
+    description: modify list of diasbled Heads
+    usage: /headsaddon set/remove
+  head:
